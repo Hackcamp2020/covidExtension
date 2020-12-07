@@ -24,7 +24,7 @@ const a = document.createElement('a');
 
 a.appendChild(link);
 a.title = "❗ Recent COVID-19 Cases Reported Here."
-a.href= 'covidRestaurant.html';
+a.href= 'https://hackcamp2020.github.io/covidmapExtension/covidRestaurant.html';
 
 content2.appendChild(a);
 container2.appendChild(content2);
