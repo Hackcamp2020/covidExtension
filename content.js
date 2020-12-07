@@ -18,7 +18,7 @@ const container2 = document.querySelector('.cXedhc');
 const content2 = document.createElement('div');
 content2.classList.add('content2');
 
-const link = document.createTextNode("❗ Recent COVID-19 Cases Reported Here.";
+const link = document.createTextNode("❗ Recent COVID-19 Cases Reported Here.");
 
 const a = document.createElement('a');
 
