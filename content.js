@@ -1,5 +1,5 @@
 // General protocol
-const container1 = document.querySelector('.LHJvCe');
+const container1 = document.querySelector('#lb');
 
 const content1 = document.createElement('div');
 content1.classList.add('content1');
