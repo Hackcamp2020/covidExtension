@@ -26,4 +26,5 @@ a.appendChild(link);
 a.title = "❗ Recent COVID-19 Cases Reported Here."
 a.href= 'covidResaurant.html';
 
+content2.appendChild(a);
 container2.appendChild(content2);
