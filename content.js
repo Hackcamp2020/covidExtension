@@ -10,7 +10,7 @@ content1A.classList.add('content1A');
 content1A.textContent = '❗ COVID-19 alert';
 
 container1.appendChild(content1A);
-content1.appendChild(content1A);
+content1A.appendChild(content1);
 
 // Location tag
 const container2 = document.querySelector('.cXedhc');
