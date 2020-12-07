@@ -13,7 +13,7 @@ container1.appendChild(content1A);
 content1A.appendChild(content1);
 
 // Location tag
-const container2 = document.querySelector('.cXedhc');
+const container2 = document.querySelector('.VkpGBb');
 
 const content2 = document.createElement('div');
 content2.classList.add('content2');
