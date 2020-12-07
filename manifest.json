@@ -5,13 +5,12 @@
 
     "content_scripts": [
         {
-            "matches": ["<all_urls>"],
+            "matches": ["https://www.google.ca/search?sxsrf=ALeKk03CASaVw1_Ggas1yojx9iKQepF-LA%3A1607295700224&source=hp&ei=1GLNX-bMC9bj-gSry5OYDw&q=superstore+surrey+&oq=superstore+surrey+&gs_lcp=CgZwc3ktYWIQAzICCAAyAggAMgIIADICCAAyAggAMgIIADICCAAyAggAMggILhDHARCvATIICC4QxwEQrwE6BwgjEOoCECc6BAgjECc6BQgAEJECOg4ILhCxAxCDARDHARCjAjoICAAQsQMQgwE6BQgAELEDOgQIABBDOg0ILhCxAxDHARCjAhBDOgQILhBDOgcIABCxAxBDOggIABDJAxCRAjoHCC4QsQMQQzoRCC4QsQMQgwEQxwEQowIQkwI6CAgAELEDEMkDOgUIABCSAzoOCC4QsQMQgwEQxwEQrwE6CwgAELEDEIMBEMkDOggILhCxAxCDAVC5DViPJmCIKGgDcAB4AIABggGIAYMPkgEEOC4xMZgBAKABAaoBB2d3cy13aXqwAQo&sclient=psy-ab&ved=0ahUKEwjmhomKu7rtAhXWsZ4KHavlBPMQ4dUDCAk&uact=5"],
             "js": ["content.js"]
         }
     ],
 "browser_action": {
-    "default_popup": "popup.html",
-    "default_title": "Bear"
+    "default_title": "Covid Alert Extension"
 }
 
 }
