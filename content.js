@@ -11,7 +11,7 @@ content1A.textContent = '❗ COVID-19 ALERT';
 
 container1.appendChild(content1A);
 content1A.appendChild(content1);
-*/
+*/ 
 
 const alert1 = documemt.createTextNode(" ❗ COVID-19 ALERT ");
 const alert2 = document.createTextNode("Remember to go out with only immediate household members.");
